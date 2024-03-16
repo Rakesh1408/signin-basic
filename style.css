@@ -1,0 +1,59 @@
+.bod1{
+  height: 550px;
+  width: 380px;
+ 
+  border: none;
+  margin-left: 35%;
+  background: url(./background.png);
+  background-size: cover;
+  color: aliceblue;
+}
+input{
+  height: 40px;
+  margin: 5px;
+  background-color: aliceblue;
+  border: none;
+}
+.mob{
+  width: 350px;
+}
+.vok{
+  
+  height: 40px;
+  
+  padding: 2px;
+ 
+}
+label{
+  margin: 5px;
+}
+.gen{
+  display: flex;
+  gap:10px;
+  margin: 5px ;
+  justify-content: start;
+  
+}
+
+.j{
+  margin: 10px;
+  vertical-align: middle;
+}
+button{
+  
+  margin-top: 6%;
+  height: 40px;
+  background-color: green;
+  color: aliceblue;
+  font-size: larger;
+  padding-left: 60px;
+  padding-right: 60px;
+  border: none;
+  border-radius: 5px;
+}
+.t{
+  text-align: center;
+}
+body{
+  background:linear-gradient(to left,rgb(3, 56, 79),rgb(42, 117, 143))
+}
